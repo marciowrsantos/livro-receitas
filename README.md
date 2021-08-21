@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Livro de receitas :man_cook:
 
 Olá! Bem vindo ao meu livro de receitas:wave:
@@ -11,4 +12,3 @@ Olá! Bem vindo ao meu livro de receitas:wave:
 - Bolo de maracujá
 - Bolo de ameixa
 - Bolo de abacaxi
-
