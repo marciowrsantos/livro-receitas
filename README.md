@@ -8,3 +8,7 @@ Olá! Bem vindo ao meu livro de receitas:wave:
 - Bolo de chocolate
 - bolo de fubá
 - ei novo bolo
+- Bolo de maracujá
+- Bolo de ameixa
+- Bolo de abacaxi
+
