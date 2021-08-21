@@ -9,3 +9,4 @@ Olá! Bem vindo ao meu livro de receitas:wave:
 - bolo de fubá
 - Bolo de maracujá
 - Bolo de ameixa
+- Bolo de abacaxi
